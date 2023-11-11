@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ios%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a iOS software developer
-- 👨‍💻 AI graduated 2020 From 6th of October University , I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a ios Software Developer
+- 👨‍💻 I graduated 2020 From 6th of October University , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Swift , ios skills -> Auto Layout Constraints - Cocoa pods Core Animations - Familiar With Libraries And Frameworks - User Default - Deal with Restf ul API 
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
