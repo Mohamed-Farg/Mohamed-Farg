@@ -14,7 +14,7 @@
 - 🏢 I'm a iOS software developer
 - 👨‍💻 AI graduated 2020 From 6th of October University , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Swift , ios skills -> Auto Layout Constraints - Cocoa pods Core Animations - Familiar With Libraries And Frameworks - User Default - Deal with Restf ul API 
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of tea.
+- ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
 
 ### Connect with Me :
