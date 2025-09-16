@@ -15,13 +15,25 @@
 - 💬 Ask me about my learning journey with SQL, Python basics, and problem-solving on platforms like HackerRank & LeetCode.
 - ⚡ Fun Fact: I love simplifying complex problems and I believe consistency beats motivation.
 
+---
+
+### 🎯 Current Goals
+- Strengthen my SQL skills by solving challenges on LeetCode & HackerRank.  
+- Build solid foundations in Python for data engineering tasks.  
+- Explore Docker and containerization basics for deploying data projects.  
+
+---
+
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-farg-172895273/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Farg-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
