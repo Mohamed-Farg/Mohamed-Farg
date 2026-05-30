@@ -6,21 +6,24 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
 
-- 🏢 I'm an aspiring **Data Engineer**
-- 👨‍💻 I graduated in 2020, and I'm currently focusing on building strong foundations in SQL, Python, and Data Engineering concepts.
-- 💬 Ask me about my learning journey with SQL, Python basics, and problem-solving on platforms like HackerRank & LeetCode.
-- ⚡ Fun Fact: I love simplifying complex problems and I believe consistency beats motivation.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+* 🏢 I'm an aspiring **Data Analyst**
+* 👨‍💻 I graduated in 2020, and I'm currently focusing on building strong foundations in SQL, Python, Excel, Power BI, and Data Analysis concepts.
+* 💬 Ask me about SQL, Python, Data Analysis, Power BI, and problem-solving on platforms like HackerRank & LeetCode.
+* ⚡ Fun Fact: I love simplifying complex problems and turning data into meaningful insights.
 
 ---
 
 ### 🎯 Current Goals
-- Strengthen my SQL skills by solving challenges on LeetCode & HackerRank.  
-- Build solid foundations in Python for data engineering tasks.  
-- Explore Docker and containerization basics for deploying data projects.  
+
+* Strengthen my SQL skills by solving challenges on LeetCode & HackerRank.
+* Build interactive dashboards using Power BI.
+* Improve my Python skills for data analysis and automation tasks.
+* Learn DAX and advanced data visualization techniques.
 
 ---
 
@@ -30,10 +33,13 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### 🛠  Tech Stack
+
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat\&logo=postgresql) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat\&logo=powerbi) 
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat\&logo=microsoft-excel) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat\&logo=pandas) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visual-studio-code\&logoColor=007ACC) 
